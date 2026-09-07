@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello there, I’m Mashfiq!  <br>💡 Exploring AI, Machine Learning & Web Development  <br>🛠️ Python | javascript | ML   <br>🎯 Learning by building projects  <br>🚀 Open to collaborations and new challenges!<br>🍳 Fun fact: I can cook! <br>
+👋 Hello there, I’m Mashfiq!  <br>💡 Exploring AI, Machine Learning & LLMSs  <br>🛠️ Python | Pytorch | ML | RAG | LangChain   <br>🎯 Learning by building projects  <br>🚀 Open to collaborations and new challenges!<br>🍳 Fun fact: I can cook! <br>
 
 
 ## 🌐 Socials:
